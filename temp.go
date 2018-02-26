@@ -72,3 +72,11 @@ func NewPlayer(name string, power int) *Player {
 	}
 }*/
 
+/*func extractPowers(players []*Players) []int {
+	powers := make([]int, len(players))
+	for index, player := range players {
+		powers[index] = player.Power
+	}
+	return powers
+}*/
+
